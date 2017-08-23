@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora IPV4</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+</resources>
